@@ -4,9 +4,9 @@
 
 # ZingDisk
 
-**See your disk. Clearly.**
+**See Your Disk. Clearly.**
 
-A blazing-fast disk space analyzer for macOS and Windows — scan a whole disk in seconds, then see every layer of it.
+ZingDisk is a blazing-fast disk space analyzer for macOS and Windows. Sunburst and rectangle layer views make every byte visible, so you can reclaim space with confidence.
 
 [![Download on the Mac App Store](https://img.shields.io/badge/Mac_App_Store-Download-000000?logo=apple&logoColor=white&style=for-the-badge)](https://apps.apple.com/us/search?term=ZingDisk&platform=mac)
 [![Download for Windows](https://img.shields.io/badge/Windows-Download-0078D4?logo=windows&logoColor=white&style=for-the-badge)](https://github.com/whatbugsyou/ZingDisk-releases/releases/latest)
@@ -61,9 +61,9 @@ Free to use. Windows builds are published in this repository; the macOS build sh
 
 ## 中文
 
-**看清磁盘，一目了然。**
+**洞察磁盘。一目了然。**
 
-macOS 与 Windows 的磁盘空间分析工具——几秒钟扫完整个磁盘，然后逐层看清它的全貌。
+ZingDisk 是一款为 macOS 与 Windows 打造的极速磁盘空间分析工具。旭日图与矩形层级图双视图，精准可视化存储去向，自信回收磁盘空间。
 
 | 平台 | 系统要求 | 下载 |
 | --- | --- | --- |
