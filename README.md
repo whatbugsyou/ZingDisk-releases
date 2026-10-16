@@ -11,7 +11,7 @@ ZingDisk is a blazing-fast disk space analyzer for macOS and Windows. Sunburst a
 [![Download on the Mac App Store](https://img.shields.io/badge/Mac_App_Store-Download-000000?logo=apple&logoColor=white&style=for-the-badge)](https://apps.apple.com/us/search?term=ZingDisk&platform=mac)
 [![Download for Windows](https://img.shields.io/badge/Windows-Download-0078D4?logo=windows&logoColor=white&style=for-the-badge)](https://github.com/whatbugsyou/ZingDisk-releases/releases/latest)
 
-[Website](https://zingdisk.app) · [Support](https://zingdisk.app/support.html) · [Release notes](https://github.com/whatbugsyou/ZingDisk-releases/releases) · [简体中文](README.zh-CN.md)
+[Website](https://zingdisk.app) · [Support](https://zingdisk.app/support.html) · [Release notes](https://github.com/whatbugsyou/ZingDisk-releases/releases) · **English** · [简体中文](README.zh-CN.md)
 
 </div>
 

@@ -11,7 +11,7 @@ ZingDisk 是一款为 macOS 与 Windows 打造的极速磁盘空间分析工具�
 [![前往 Mac App Store 下载](https://img.shields.io/badge/Mac_App_Store-下载-000000?logo=apple&logoColor=white&style=for-the-badge)](https://apps.apple.com/us/search?term=ZingDisk&platform=mac)
 [![下载 Windows 版](https://img.shields.io/badge/Windows-下载-0078D4?logo=windows&logoColor=white&style=for-the-badge)](https://github.com/whatbugsyou/ZingDisk-releases/releases/latest)
 
-[官网](https://zingdisk.app) · [支持](https://zingdisk.app/support.html) · [发布说明](https://github.com/whatbugsyou/ZingDisk-releases/releases) · [English](README.md)
+[官网](https://zingdisk.app) · [支持](https://zingdisk.app/support.html) · [发布说明](https://github.com/whatbugsyou/ZingDisk-releases/releases) · [English](README.md) · **简体中文**
 
 </div>
 
