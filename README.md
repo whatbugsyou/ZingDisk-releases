@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/hero-sunburst.png" alt="ZingDisk — sunburst view" width="840">
+<img src="images/hero.png" alt="ZingDisk — sunburst and layer views" width="880">
 
 # ZingDisk
 
