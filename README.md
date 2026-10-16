@@ -11,7 +11,7 @@ ZingDisk is a blazing-fast disk space analyzer for macOS and Windows. Sunburst a
 [![Download on the Mac App Store](https://img.shields.io/badge/Mac_App_Store-Download-000000?logo=apple&logoColor=white&style=for-the-badge)](https://apps.apple.com/us/search?term=ZingDisk&platform=mac)
 [![Download for Windows](https://img.shields.io/badge/Windows-Download-0078D4?logo=windows&logoColor=white&style=for-the-badge)](https://github.com/whatbugsyou/ZingDisk-releases/releases/latest)
 
-[Website](https://zingdisk.app) · [Support](https://zingdisk.app/support.html) · [Release notes](https://github.com/whatbugsyou/ZingDisk-releases/releases) · [中文说明](#中文)
+[Website](https://zingdisk.app) · [Support](https://zingdisk.app/support.html) · [Release notes](https://github.com/whatbugsyou/ZingDisk-releases/releases) · [简体中文](README.zh-CN.md)
 
 </div>
 
@@ -56,33 +56,6 @@ Free to use. Windows builds are published in this repository; the macOS build sh
 - **Cleaner sunburst separators** and lighter animation.
 
 [Full release notes →](https://github.com/whatbugsyou/ZingDisk-releases/releases/tag/v1.6.0)
-
----
-
-## 中文
-
-**洞察磁盘。一目了然。**
-
-ZingDisk 是一款为 macOS 与 Windows 打造的极速磁盘空间分析工具。旭日图与矩形层级图双视图，精准可视化存储去向，自信回收磁盘空间。
-
-| 平台 | 系统要求 | 下载 |
-| --- | --- | --- |
-| **macOS** | macOS 13 Ventura 或更高 · Apple 芯片与 Intel | [Mac App Store](https://apps.apple.com/us/search?term=ZingDisk&platform=mac) |
-| **Windows** | Windows 10 或更高 · 64 位 | [最新版本](https://github.com/whatbugsyou/ZingDisk-releases/releases/latest) |
-
-免费使用。Windows 版在本仓库发布；macOS 版经 Mac App Store 分发。
-
-**主要功能**
-
-- **极速扫描**：Blazing / Fast / Normal 三档速度，自己决定扫描能用多少机器性能。
-- **旭日图**：整个磁盘一张可交互的图，每一环是一层目录，每一片是一个目录或文件。
-- **层级图**：同一份数据的矩形分层视图，祖先目录像书架一样排开，层刻度直接跳到任意深度。
-- **搜索、筛选与预览**：键入即找，按类型或标签筛选，悬停看缩略图，空格键全屏预览。
-- **AI 分析**：右键目录，流式读出它是什么、什么可以安全删除。
-- **主题**：旭日图与矩形图共十套配色，另有深色界面主题。
-- **删得放心**：删除是把文件移进废纸篓 / 回收站，随时可以还原。
-
-**1.6.0 新内容**：首个 Windows 版本（超长路径、回收站、资源管理器式预览）、全新的默认配色与两套深色主题、面包屑跟随层刻度拖动、旭日分隔缝更干净。[完整发布说明 →](https://github.com/whatbugsyou/ZingDisk-releases/releases/tag/v1.6.0)
 
 ---
 
