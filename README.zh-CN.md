@@ -46,17 +46,6 @@ ZingDisk 是一款为 macOS 与 Windows 打造的极速磁盘空间分析工具�
 | --- | --- |
 | <img src="images/ai.png" width="420" alt="目录的 AI 分析"> | <img src="images/preview.png" width="420" alt="悬停缩略图预览"> |
 
-## 新版本
-
-### 1.6.0
-
-- **Windows 支持**——首个可在 Windows 上运行的版本：超长路径照样扫全、移到回收站、资源管理器式预览，标题栏保留 Windows 11 贴靠布局弹层。
-- **界面焕新**——新的默认配色，外加两套深色主题（One Dark Pro 与 macOS Classic Dark），设置页新增「外观」分区。
-- **面包屑跟随层刻度**——拖动时实时跟随，点击高亮项一键回到当前目录。
-- **旭日分隔缝更干净**，动画更轻。
-
-[完整发布说明 →](https://github.com/whatbugsyou/ZingDisk-releases/releases/tag/v1.6.0)
-
 ---
 
 <div align="center">

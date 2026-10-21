@@ -46,17 +46,6 @@ Free to use. Windows builds are published in this repository; the macOS build sh
 | --- | --- |
 | <img src="images/ai.png" width="420" alt="AI analysis of a folder"> | <img src="images/preview.png" width="420" alt="Hover thumbnail preview"> |
 
-## What's new
-
-### 1.6.0
-
-- **Windows support** — the first release that runs on Windows: long paths scan completely, delete to the Recycle Bin, Explorer-style previews, and a title bar that keeps Windows 11 snap layouts.
-- **A refreshed interface** — new default colour scheme, plus two dark themes (One Dark Pro and macOS Classic Dark) in the new Appearance section in Settings.
-- **The breadcrumb follows the layer ruler** while you drag, and returns you to the focal folder with one click.
-- **Cleaner sunburst separators** and lighter animation.
-
-[Full release notes →](https://github.com/whatbugsyou/ZingDisk-releases/releases/tag/v1.6.0)
-
 ---
 
 <div align="center">
