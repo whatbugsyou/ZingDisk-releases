@@ -22,9 +22,9 @@ ZingDisk 是一款为 macOS 与 Windows 打造的极速磁盘空间分析工具�
 | 平台 | 系统要求 | 下载 |
 | --- | --- | --- |
 | **macOS** | macOS 13 Ventura 或更高 · Apple 芯片与 Intel | [Mac App Store](https://apps.apple.com/us/search?term=ZingDisk&platform=mac) |
-| **Windows** | Windows 10 或更高 · 64 位 | [最新版本](https://github.com/whatbugsyou/ZingDisk-releases/releases/latest) |
+| **Windows** | Windows 10 1903+ / Windows 11 22H2+ · 64 位 · DirectX 11 GPU | [最新版本](https://github.com/whatbugsyou/ZingDisk-releases/releases/latest) |
 
-免费使用。Windows 版在本仓库发布；macOS 版经 Mac App Store 分发。
+免费使用。Windows 版在本仓库发布；macOS 版经 Mac App Store 分发。Windows 版需要支持 DirectX 11 的 GPU 与最新显卡驱动。
 
 ## 主要功能
 

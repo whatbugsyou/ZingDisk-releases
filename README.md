@@ -22,9 +22,9 @@ ZingDisk is a blazing-fast disk space analyzer for macOS and Windows. Sunburst a
 | Platform | Requirements | Get it |
 | --- | --- | --- |
 | **macOS** | macOS 13 Ventura or later · Apple silicon and Intel | [Mac App Store](https://apps.apple.com/us/search?term=ZingDisk&platform=mac) |
-| **Windows** | Windows 10 or later · 64-bit | [Latest release](https://github.com/whatbugsyou/ZingDisk-releases/releases/latest) |
+| **Windows** | Windows 10 1903+ / Windows 11 22H2+ · 64-bit · DirectX 11 GPU | [Latest release](https://github.com/whatbugsyou/ZingDisk-releases/releases/latest) |
 
-Free to use. Windows builds are published in this repository; the macOS build ships through the Mac App Store.
+Free to use. Windows builds are published in this repository; the macOS build ships through the Mac App Store. On Windows, a DirectX 11-capable GPU and a current graphics driver are required.
 
 ## What it does
 
